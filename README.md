@@ -4,7 +4,7 @@ Portal estático de orientação para serviços públicos digitais, desenvolvido
 
 ## Executar
 
-Abra `dist/index.html` no navegador ou use um servidor HTTP local, por exemplo `python3 -m http.server 8000 -d dist`.
+Abra `index.html` no navegador ou use um servidor HTTP local, por exemplo `python3 -m http.server 8000`. A versão pública está em https://jusguilherme.github.io/servicos-publicos-nanuque/.
 
 ## Escopo
 
